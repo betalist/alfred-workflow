@@ -1,3 +1,5 @@
+![](https://github.com/betalist/alfred-workflow/raw/master/screenshot.jpg)
+
 # Work in progress
 
 Do not download. Will break. Based on [alfred-provider-suggest][3]
