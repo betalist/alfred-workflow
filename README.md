@@ -1,14 +1,17 @@
+# Alfred Workflow for BetaList
+
 ![](https://github.com/betalist/alfred-workflow/raw/master/screenshot.jpg)
 
-# Work in progress
+Browse and search through the latest startups right from within Alfred.
 
-Do not download. Will break. Based on [alfred-provider-suggest][3]
+Based on [alfred-provider-suggest][3]
 
 # Installation instructions
 
 1. [Download the Workflow][2]
 2. Open the file
 3. Click ‘Import’ to add it to your Alfred Workflows.
+4. Type 'beta' for the latest startups or 'beta query' to search for startups by name (replace 'query').
 
 # Development
 
