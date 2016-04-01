@@ -1,8 +1,8 @@
 # Alfred Workflow for BetaList
 
-![](https://github.com/betalist/alfred-workflow/raw/master/screenshot.jpg)
+## Browse and search through the latest startups right from within Alfred.
 
-Browse and search through the latest startups right from within Alfred.
+![](https://github.com/betalist/alfred-workflow/raw/master/screenshot.jpg)
 
 Based on [alfred-provider-suggest][3]
 
